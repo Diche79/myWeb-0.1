@@ -1,0 +1,48 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">  
+    
+   <url>
+
+      <loc>http://www.teresagasbarro.com/</loc>
+
+      <lastmod>2022-10-31</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.teresagasbarro.com/index-galerias/</loc>
+
+      <lastmod>2022-10-31</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.9</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.teresagasbarro.com/index-sobre-mi/</loc>
+
+      <lastmod>2022-10-31</lastmod>
+
+   </url>
+
+    <url>
+
+      <loc>http://www.teresagasbarro.com/index-contacto/</loc>
+
+      <lastmod>2022-10-31</lastmod>
+
+      <priority>0.7</priority>
+
+   </url>
+
+</urlset>
